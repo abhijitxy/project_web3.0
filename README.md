@@ -27,3 +27,7 @@ Kripto currently supports the following cryptocurrencies:
 • Ethereum (ETH)
 • Litecoin (LTC)
 • Ripple (XRP)
+
+# Security
+
+Kripto uses smart contracts to securely store users' cryptocurrency holdings. The smart contract code is open-source and can be viewed by anyone.
