@@ -9,3 +9,7 @@ Buy and sell cryptocurrencies: Kripto allows users to easily buy and sell crypto
 Secure storage: Kripto uses smart contracts to securely store users' cryptocurrency holdings.
 Transparency: All transactions on the Ethereum blockchain are transparent and can be viewed by anyone.
 Decentralization: Kripto is built on the Ethereum blockchain, which is decentralized and not controlled by any central authority.
+
+# Getting Started
+
+To get started with Kripto, you will first need to have an Ethereum wallet. Kripto supports MetaMask, MyEtherWallet and other Ethereum wallets.
