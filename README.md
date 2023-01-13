@@ -18,3 +18,12 @@ To get started with Kripto, you will first need to have an Ethereum wallet. Krip
 2. Add some Ether to your wallet to pay for the transaction fees.
 3. Go to the Kripto website and connect your wallet.
 3. Once connected, you can start buying, selling and storing cryptocurrencies.
+
+# Supported Cryptocurrencies
+
+Kripto currently supports the following cryptocurrencies:
+
+• Bitcoin (BTC)
+• Ethereum (ETH)
+• Litecoin (LTC)
+• Ripple (XRP)
