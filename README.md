@@ -13,3 +13,8 @@ Decentralization: Kripto is built on the Ethereum blockchain, which is decentral
 # Getting Started
 
 To get started with Kripto, you will first need to have an Ethereum wallet. Kripto supports MetaMask, MyEtherWallet and other Ethereum wallets.
+
+1. Install MetaMask or MyEtherWallet and create a new wallet.
+2. Add some Ether to your wallet to pay for the transaction fees.
+3. Go to the Kripto website and connect your wallet.
+3. Once connected, you can start buying, selling and storing cryptocurrencies.
