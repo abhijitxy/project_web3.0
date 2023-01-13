@@ -31,3 +31,7 @@ Kripto currently supports the following cryptocurrencies:
 # Security
 
 Kripto uses smart contracts to securely store users' cryptocurrency holdings. The smart contract code is open-source and can be viewed by anyone.
+
+# Conclusion
+
+Kripto is a simple and secure platform for buying, selling and storing cryptocurrencies on the Ethereum blockchain. It is a decentralized application
