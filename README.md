@@ -4,3 +4,8 @@
 Kripto is a decentralized application (DAPP) built on the Ethereum blockchain. It is a platform that enables users to easily and securely buy, sell and store cryptocurrencies.
 
 # Features
+
+Buy and sell cryptocurrencies: Kripto allows users to easily buy and sell cryptocurrencies using their Ethereum wallet.
+Secure storage: Kripto uses smart contracts to securely store users' cryptocurrency holdings.
+Transparency: All transactions on the Ethereum blockchain are transparent and can be viewed by anyone.
+Decentralization: Kripto is built on the Ethereum blockchain, which is decentralized and not controlled by any central authority.
